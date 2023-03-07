@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zhangheng.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning java language.
+- 🌱 I’m currently learning c++ language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
